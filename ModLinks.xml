@@ -228,10 +228,10 @@
         </Tags>
     </Manifest>
     <Manifest>
-        <Name>Damage Values</Name>
+        <Name>DamageValues</Name>
         <Description>Shows damage numbers when striking an enemy.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="620ffc698da598e819f3c96755929aede40f26f222e4f06761623da192c5e3e9"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.0/DamageValues.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="d9abf248b4c06df125cd9a6923c33bcbbe61ad4243a553ff6f1ab80059170927"><![CDATA[https://github.com/jngo102/DamageValues/releases/download/1.0.0.1/DamageValues.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/jngo102/DamageValues]]>
@@ -261,9 +261,7 @@
         <Name>ExtraMenuBackgrounds</Name>
         <Description>Adds 5 new main menu themes to the Extras menu.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="957C4773B35036049DE0AA58ECE2820A399987B59A59C82F72EA652A3B8B3289">
-            <![CDATA[https://github.com/beesnation/ExtraMenuBackgrounds/releases/download/v1.0.0.0/ExtraMenuBackgrounds.zip]]>
-        </Link>
+        <Link SHA256="957C4773B35036049DE0AA58ECE2820A399987B59A59C82F72EA652A3B8B3289"><![CDATA[https://github.com/beesnation/ExtraMenuBackgrounds/releases/download/v1.0.0.0/ExtraMenuBackgrounds.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>
